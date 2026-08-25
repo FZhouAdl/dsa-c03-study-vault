@@ -1,0 +1,14 @@
+---
+title: "Newsroom | Snowflake - The AI Data Cloud"
+source: https://www.snowflake.com/en/news/
+cert_domain: domain-2-data-preparation-and-feature-engineering
+crawl_depth: 1
+crawled: 2026-08-23
+note: little server-rendered content (JS-rendered or form-gated page)
+---
+
+#### Securing AI Agents: Snowflake CSTO Mayank Upadhyay on Cortex AI Gateway | Agents of Dev
+
+Jul 29, 2026
+
+Agents of Dev Podcast

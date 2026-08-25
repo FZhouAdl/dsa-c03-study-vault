@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "43ae94ac5dfce461",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93bb1c8e7fac7b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255eccb49d076505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INDEX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "518e8b9c7b45627c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0617f7d2298f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350f61b2f8cd7c7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2260181671cfeb8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc90ed286bb8daf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1778033b88153df",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e169c72ea8422f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70042b6761f4b66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INDEX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "324d44ac48b9cb44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INDEX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "84e4f449fc4f1081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e60802a2316d5e1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "38e2dd8bd1fd67b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "INDEX.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "255eccb49d076505",
+  "lastOpenFiles": [
+    "sources/downloads/domain-1-data-science-concepts/snowflake-cortex-ai-functions-including-llm-functions-snowflake-docume.md",
+    "StudyVault/01-data-science-concepts/ml-fundamentals.md",
+    "StudyVault/01-data-science-concepts/data-science-concepts-practice.md",
+    "sources/SnowProDataScientistStudyGuide.pdf",
+    "sources/crawl-report.txt",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/using-third-party-packages-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/staging-files-using-snowsight-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/setting-up-your-development-environment-for-snowpark-python-snowflake.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/overview-of-warehouses-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/organization-administrators-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/making-dependencies-available-to-your-code-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/external-offerings-terms.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/creating-a-stored-procedure-from-a-python-worksheet-snowflake-document.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation/account-usage-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/using-request-and-response-translators-with-data-for-a-remote-service.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/securing-an-external-function-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/remote-service-input-and-output-data-formats-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/introduction-to-external-functions-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/external-functions-best-practices-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/designing-high-performance-external-functions-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/creating-external-functions-on-microsoft-azure-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/creating-external-functions-on-gcp-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation/creating-external-functions-on-aws-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/using-pandas-dataframes-with-the-python-connector-snowflake-documentat/using-the-python-connector-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/using-pandas-dataframes-with-the-python-connector-snowflake-documentat/python-connector-api-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/using-pandas-dataframes-with-the-python-connector-snowflake-documentat/multi-factor-authentication-mfa-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/using-pandas-dataframes-with-the-python-connector-snowflake-documentat/managing-using-federated-authentication-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/understanding-column-level-security-snowflake-documentation/writing-external-functions-snowflake-documentation.md",
+    "sources/downloads/domain-3-model-development/writing-snowpark-code-in-python-worksheets-snowflake-documentation",
+    "sources/downloads/domain-3-model-development/writing-external-functions-snowflake-documentation",
+    "sources/downloads/domain-3-model-development/using-pandas-dataframes-with-the-python-connector-snowflake-documentat",
+    "sources/downloads/domain-3-model-development/understanding-column-level-security-snowflake-documentation",
+    "sources/downloads/domain-3-model-development/training-machine-learning-models-with-snowpark-python-snowflake-docume",
+    "sources/downloads/domain-3-model-development/summarize-snowflake-cortex-snowflake-documentation",
+    "sources/downloads/domain-3-model-development/stored-procedures-overview-snowflake-documentation",
+    "sources/downloads/domain-3-model-development/snowflake-cortex-complete-snowflake-documentation"
+  ]
+}

@@ -1,0 +1,507 @@
+ SNOWPROⓇ ADVANCED:
+DATA SCIENTIST (DSA-C03)​
+   EXAM STUDY GUIDE
+     Last Updated: January 12, 2026
+TABLE OF CONTENTS
+SNOWPRO ADVANCED: DATA SCIENTIST STUDY GUIDE OVERVIEW​        1
+RECOMMENDATIONS FOR USING THE GUIDE​                          2
+SNOWPRO ADVANCED: DATA SCIENTIST CERTIFICATION OVERVIEW​      3
+SNOWPRO ADVANCED: DATA SCIENTIST PREREQUISITE​                4
+  STEPS TO SUCCESS​                                           4
+SNOWPRO ADVANCED: DATA SCIENTIST SUBJECT AREA BREAKDOWN​      4
+Domain 1.0: Data Science Concepts​                            5
+  Domain 1.0 Study Resources​                                 5
+Domain 2.0: Data Preparation and Feature Engineering​         6
+  Domain 2.0 Study Resources​                                 7
+Domain 3.0: Model Development​                                8
+  Domain 3.0 Study Resources​                                 9
+Domain 4.0: Model Deployment​                                10
+  Domain 4.0 Study Resources​                                11
+SNOWPRO ADVANCED: DATA SCIENTIST SAMPLE QUESTIONS​           11
+NEXT STEPS​                                                  14
+  REGISTERING FOR YOUR EXAM​                                 14
+  MAINTAINING YOUR CERTIFICATION​                            14
+
+
+
+
+           ​   ​   ​    ​   ​    ​    ​    ​    ​   Page 1
+SNOWPRO ADVANCED: DATA SCIENTIST STUDY GUIDE
+OVERVIEW
+This is a self-learning study guide that highlights concepts that may be covered on Snowflake’s
+SnowPro Advanced: Data Scientist Certification exam.
+
+This study guide does not guarantee certification success.
+
+Holding the SnowPro Core certification in good standing is a prerequisite for taking the
+Advanced: Data Scientist certification.
+
+For an overview and more information on the SnowPro Core Certification exam or SnowPro
+Advanced Certification series, please navigate here.
+
+
+RECOMMENDATIONS FOR USING THE GUIDE
+This guide will show the Snowflake topics and subtopics covered on the exam. Following the
+topics will be additional resources consisting of videos, documentation, blogs, or exercises to
+help you understand the Data Scientist role on the Snowflake AI Data Cloud.
+
+Estimated length of study guide: 10 – 13 hours
+
+Some links may have more value than others, depending on your experience, the same amount of
+time should not be spent on each link. Some links may appear in more than one domain.
+
+
+
+
+                 ​    ​       ​       ​      ​       ​       ​      ​       ​      Page 2
+SNOWPRO ADVANCED: DATA SCIENTIST CERTIFICATION
+OVERVIEW
+The SnowPro Advanced: Data Scientist exam tests advanced knowledge and skills used to
+apply comprehensive data science principles, tools, and methodologies using Snowflake. The
+exam will assess skills through scenario-based questions and real-world examples.
+This certification will test the ability to:
+   ●​ Outline data science concepts
+   ●​ Implement Snowflake data science best practices
+   ●​ Prepare data and feature engineering in Snowflake
+   ●​ Train and use machine learning models
+   ●​ Use data visualization to present a business case (e.g., model explainability)
+   ●​ Implement model lifecycle management
+   ●​ Use GenAI and LLM capabilities in Snowflake
+
+Target Audience:
+2+ years of practical data science experience with Snowflake, in an enterprise environment. In
+addition, successful candidates may have:
+   ●​ A statistical, mathematical, or data science education (or equivalent work experience)
+   ●​ Background working with one or more of the following programming languages (e.g.,
+       Python, SQL, Scala, etc.)
+   ●​ Experience modeling and using machine learning platforms (e.g., SageMaker, Azure
+       Machine Learning, GCP AI platform, AutoML tools, etc.)
+   ●​ An understanding of various open source and commercial frameworks and libraries (e.g.,
+       scikit-learn, TensorFlow, etc.)
+   ●​ Experience preparing, cleaning, and transforming datasets from multiple sources
+   ●​ Experience creating features for machine learning training
+   ●​ Experience training, validating, and interpreting models
+   ●​ Experience putting a model into production and monitoring the model in production
+   ●​ Experience presenting data using visualization tools
+   ●​ Leveraging GenAI and LLM methodologies (e.g., RAG, prompting, fine tuning,
+       task-specific models such as Document AI and Snowflake Copilot)
+
+This exam is designed for:
+   ●​ Data Scientists
+   ●​ AI or ML Engineers
+
+
+
+
+                 ​    ​       ​      ​       ​      ​       ​      ​       ​      Page 3
+SNOWPRO ADVANCED: DATA SCIENTIST PREREQUISITE
+Eligible individuals must hold an active SnowPro Core Certified credential. If you feel you need
+more guidance on the fundamentals, please see the SnowPro Core Exam Study Guide.
+
+STEPS TO SUCCESS
+   1.​ Review the Data Scientist Exam Guide
+   2.​ Attend Snowflake’s Instructor-Led Data Scientist Training
+   3.​ Review and study applicable white papers and documentation
+   4.​ Get hands-on practical experience with relevant business requirements using Snowflake
+   5.​ Attend Snowflake Webinars
+   6.​ Attend Snowflake Virtual Hands-on Labs to gain practical experience
+   7.​ Practice with sample questions here
+   8.​ Schedule your exam
+   9.​ Take your exam!
+
+
+
+SNOWPRO ADVANCED: DATA SCIENTIST SUBJECT AREA
+BREAKDOWN
+This exam guide includes test domains, weightings, and objectives. It is not a comprehensive
+listing of all the content that will be presented on this examination. The table below lists the main
+content domains and their weightings.
+
+                           Domain                                 Domain Weightings on Exams
+
+ 1.0 Data Science Concepts                                                   17%
+
+ 2.0 Data Preparation and Feature Engineering                                27%
+
+ 3.0 Model Development                                                       31%
+
+ 4.0 Model Deployment                                                        25%
+
+
+
+
+                  ​    ​       ​      ​       ​       ​       ​       ​      ​       Page 4
+    Domain 1.0: Data Science Concepts
+
+    1.1 Define machine learning concepts for         1.3 Summarize the machine learning
+    data science workloads.                          lifecycle.
+        ●​ Machine Learning                              ●​ Data collection
+               ○​ Supervised learning                    ●​ Data visualization and exploration
+               ○​ Unsupervised learning                  ●​ Feature engineering
+               ○​ Reinforcement learning                 ●​ Training models
+                                                         ●​ Model deployment
+    1.2 Identify machine learning problem                ●​ Model monitoring and evaluation
+    types.                                                   (e.g., model explainability, precision,
+        ●​ Supervised Learning                               recall, accuracy, confusion matrix)
+               ○​ Structured Data                        ●​ Model versioning
+                      ■​ Linear regression
+                      ■​ Binary classification       1.4 Define statistical concepts for data
+                      ■​ Multi-class                 science.
+                         classification                  ●​ Normal versus skewed distributions
+                      ■​ Time-series                        (e.g., mean, outliers)
+                         forecasting                     ●​ Central limit theorem
+               ○​ Unstructured Data                      ●​ Z and T tests
+                      ■​ Image classification            ●​ Bootstrapping
+                      ■​ Segmentation                    ●​ Confidence intervals
+        ●​ Unsupervised Learning
+               ○​ Clustering
+        ●​ GenAI
+               ○​ Association models
+​
+Domain 1.0 Study Resources
+Lab Guides                                           Propensity Modeling: Using Data (and
+Attaining Consumer Insights with Snowflake           Expertise) to Predict Behavior (blog)
+and Microsoft Power BI                               Reinforcement Learning 101 (blog)
+Additional Assets                                    Specific ML Problem Types: GenAI
+Complete Guide to Machine Learning                   The Machine Learning Lifecycle (blog)
+Evaluation Metrics (blog)                            Understanding Confusion Matrix (blog)
+Confidence Intervals (paper)                         Customer Churn Prediction Using Machine
+How to Accelerate Data Science with                  Learning (blog)
+Snowflake (video)                                    Regression: Definition, Analysis,
+Optimizing the Machine Learning Lifecycle            Calculation, and Example (blog)
+and MLOps (white paper)                              The Complete Guide to Time Series
+Performance Metrics in Machine Learning              Forecasting Models (blog)
+[Complete Guide] (blog)                              What Is Variance in Statistics? Definition,
+                                                     Formula, and Example (blog)
+    ​
+
+
+
+                     ​   ​       ​      ​        ​   ​      ​       ​       ​       Page 5
+Domain 2.0: Data Preparation and Feature Engineering
+
+2.1 Prepare and clean data in Snowflake.             2.3 Perform feature engineering on
+    ●​ Use Snowpark for Python and SQL               Snowflake data.
+           ○​ Aggregate                                   ●​ Preprocessing
+           ○​ Joins                                              ○​ Scaling data
+           ○​ Identify critical data                             ○​ Encoding
+           ○​ Remove duplicates                                  ○​ Normalization
+           ○​ Remove irrelevant fields                    ●​ Data Transformations
+           ○​ Handle missing values                              ○​ DataFrames (i.e., pandas,
+           ○​ Data type casting                                      Snowpark, Snowpark
+           ○​ Sampling data                                          pandas)
+                                                                 ○​ Derived features (e.g.,
+2.2 Perform exploratory data analysis in                             average spend)
+Snowflake.                                                ●​ Binarizing data
+    ●​ Snowpark and SQL                                          ○​ Binning continuous data
+           ○​ Identify initial patterns (i.e.,                       into intervals
+                data profiling)                                  ○​ Label encoding
+           ○​ Connect external machine                           ○​ One hot encoding
+                learning platforms and/or                ●​ Snowpark Feature Store
+                notebooks (e.g., Jupyter)
+    ●​ Use Snowflake native statistical              2.4 Visualize and interpret the data to
+       functions to analyze and calculate            present a business case.
+       descriptive data statistics.                       ●​ Statistical summaries
+           ○​ Window Functions                                    ○​ Snowsight with SQL
+           ○​ MIN/MAX/AVG/STDEV                                   ○​ Interpret open-source graph
+           ○​ VARIANCE                                                libraries
+           ○​ TOPn                                                ○​ Identify data outliers
+           ○​ Approximation/High                          ●​ Snowflake Notebooks
+                Performing function
+    ●​ Linear Regression
+           ○​ Find the slope and intercept
+           ○​ Verify the dependencies on
+                dependent and independent
+                variables
+
+
+
+
+                  ​    ​      ​       ​          ​   ​      ​      ​      ​      Page 6
+Domain 2.0 Study Resources
+Lab Guides                                      SQL Function Reference
+Accelerating Data Teams with dbt Cloud &        pandas on Snowflake
+Snowflake                                       APPROX_COUNT_DISTINCT
+Feature Engineering (workload guide)            Data Transformation and Dimensionality
+Snowpark Python Demo (lab)                      Reduction
+Advanced Guide to Snowflake Feature Store       Primary Data Transformation and Encoding
+(lab)                                           Feature Store Overview
+                                                Feature Store API
+Additional Assets                               snowflake.ml.modeling
+6 Critical Reasons to Normalize Data (blog)     Functions
+Data Discovery Made Easy with Snowsight         Aggregate functions
+(blog)                                          DataFrame
+How Post Holdings Embraces Growth and           Working with DataFrames in Snowpark Python
+Innovation with Snowflake for Data Science      Import Python packages to use in notebooks
+(video, requires email)                         DECODE
+How to Build a Foundation for Data Science      NTILE
+with Snowflake’s Data Cloud (video)             Visualizing worksheet data
+How, When, and Why Should You Normalize /       Querying data using worksheets
+Standardize / Rescale Your Data? (blog)         About Snowflake Notebooks
+How to Choose a Feature Selection Method        Schedule your Snowflake Notebook to run
+For Machine Learning (blog)
+Linear Regression in Snowflake (blog)
+Next-Generation Automated Feature Engineering
+with DataRobot and Snowflake (paper)
+SMOTE for Imbalanced Classification with
+Python (blog)
+Undersampling Algorithms for Imbalanced
+Classification (blog)
+Missing Data Imputation (blog)
+Does SVM Need Feature Scaling Or
+Normalization? (blog)
+Snowflake Documentation Links
+Drivers
+Load Data into Snowflake
+Snowpark API
+Snowsight
+SQL Command Reference
+
+
+
+
+                  ​    ​      ​     ​       ​    ​      ​     ​      ​      Page 7
+  Domain 3.0: Model Development
+
+ 3.1 Connect data science tools directly to              ●​ Hyperparameter tuning
+ data in Snowflake.                                      ●​ Optimization metric selection (e.g.,
+      ●​ Connecting Python to Snowflake                     log loss, AUC, RMSE)
+             ○​ Snowpark                                 ●​ Partitioning
+             ○​ Snowpark ML                                    ○​ Cross validation
+             ○​ Python connector with                          ○​ Train validation hold-out
+                 Pandas support                          ●​ Down/up-sampling
+     ●​ Connecting from external IDE (e.g.,              ●​ Training with Python stored
+        Visual Studio Code)                                 procedures
+     ●​ Snowpark languages                               ●​ Training outside Snowflake through
+                                                            external functions
+ 3.2 Leverage GenAI and LLM models in                    ●​ Training with Python User-Defined
+ Snowflake.                                                 Table Functions (UDTFs)
+     ●​ Snowflake Cortex
+           ○​ Vector embedding                      3.4 Validate a data science model.
+           ○​ Prompt engineering                         ●​ ROC curve/confusion matrix
+           ○​ Fine tuning                                        ○​ Calculate the expected
+           ○​ Task-specific models (e.g.,                           payout of the model
+              categorization,                            ●​ Regression problems
+              summarization, sentiment                   ●​ Residuals plot
+              analysis, information                              ○​ Interpret graphics with
+              extraction)                                           context
+                                                         ●​ Model metrics
+ 3.3 Train a data science model.
+     ●​ Build a data science pipeline               3.5 Interpret a model.
+            ○​ Automation of data                        ●​ Feature impact
+               transformation (e.g., dynamic             ●​ Partial dependence plots
+               tables)                                   ●​ Confidence intervals
+            ○​ Python User-Defined                       ●​ SHAP values
+               Functions (UDFs)
+            ○​ Python User-Defined Table
+               Functions (UDTFs)
+            ○​ Python stored procedures
+
+Domain 3.0 Study Resources
+Lab Guides                                         A Gentle Introduction to k-fold
+Data Science Pipeline                              Cross-Validation (blog)
+Additional Assets                                  A Look at Precision, Recall, and F1-Score (blog)
+12 Important Model Evaluation Metrics for          Classification: ROC Curve and AUC (instruction)
+Machine Learning Everyone Should Know (blog)       Common Metrics for Time Series Analysis (blog)
+
+
+                  ​   ​      ​       ​         ​    ​      ​       ​      ​      Page 8
+Metrics To Evaluate Machine Learning                SQL Command Reference
+Algorithms in Python (blog)                         Introduction to external tables
+Partial Dependence and Individual                   Using pandas DataFrames with the Python
+Conditional Expectation Plots (instruction)         Connector
+Receiver Operating Characteristic (ROC)             Python Connector API
+Curves (instruction)                                Large Language Model (LLM) Functions
+Residual Plot: Definition and Examples (blog,       (Snowflake Cortex)
+video)                                              SUMMARIZE (SNOWFLAKE.CORTEX)
+What are Residuals? (blog)                          Fine-tuning (Snowflake Cortex)
+What is ML model governance? (blog)                 EMBED_TEXT_768
+Snowflake Service Consumption Table                 (SNOWFLAKE.CORTEX)
+(Paper)                                             snowflake.cortex.Complete
+Distributed ML with Snowpark Python UDFs            CREATE TASK
+(blog)                                              Stored procedures overview
+Common Loss functions in machine learning           SYSTEM$STREAM_HAS_DATA
+(blog)                                              Choosing whether to write a stored
+What Is a Confidence Interval and How Do            procedure or a user-defined function
+You Calculate It? (blog)                            User-defined functions overview
+Create Your Own Coefficient Plot Function in        Training Machine Learning Models with
+Python (blog)                                       Snowpark Python
+Welcome to the SHAP documentation                   Writing Snowpark Code in Python
+(instruction)                                       Worksheets
+Snowflake Documentation Links                       Designing Python UDFs
+​Databases, Tables and Views                        Model Explainability
+ Data Governance in Snowflake
+ Drivers
+ External Functions
+ Masking Policies
+ Snowpark API
+
+
+
+
+                   ​   ​       ​      ​         ​   ​     ​      ​      ​      Page 9
+  Domain 4.0: Model Deployment
+
+ 4.1 Move a data science model into               4.2 Determine the effectiveness of a model
+ production.                                      and retrain if necessary.
+     ●​ Use an external hosted model                  ●​ Metrics for model evaluation
+           ○​ External functions                           ○​ Data drift /Model decay
+           ○​ Pre-built models                                     ■​ Data distribution
+     ●​ Deploy a model in Snowflake                                    comparisons (Do the
+           ○​ Vectorized/Scalar Python                                 data making
+               User-Defined Functions                                  predictions look
+               (UDFs)                                                  similar to the training
+           ○​ Pre-built models                                         data? Do the same data
+           ○​ Storing predictions                                      points give the same
+           ○​ Stage commands                                           predictions once a
+           ○​ Snowflake Model Registry                                 model is deployed?)
+               ■​ Model logging and retrieving        ●​ Area under the curve
+               ■​ Snowpark Container Services         ●​ Accuracy, precision, recall
+                                                      ●​ RMSE (regression)
+
+                                                      4.3 Outline model lifecycle and
+                                                      validation tools.
+                                                         ●​ Metadata tagging
+                                                         ●​ Model versioning with Snowflake
+                                                            Model Registry
+                                                         ●​ Automation of model retraining
+
+
+Domain 4.0 Study Resources
+Lab Guides                                       External Functions Tutorial (video)
+Accelerate ML Feature Engineering with           How to Detect Model Drift in MLOps
+Snowflake and Amazon SageMaker Data              Monitoring (blog)
+Wrangler                                         How to Detect Model Drift in ML Monitoring
+Snowpark Python Top Three Tips for Optimal       (blog)
+Performance                                      In Place Machine Learning in Snowflake
+Snowflake Model Registry: Operationalizing       (blog)
+Model Management Guide                           Taking AI on Snowflake to the Next
+                                                 Level with Dataiku, Java UDFs &
+Additional Assets                                Snowpark (blog)
+Accelerating    Model Velocity through           Transform Data in Snowflake Data Cloud with
+Snowflake Java UDF integration (blog)            Java UDFs in Tellius (blog)
+Enabling Scalable Machine Learning in            Understanding AUC - ROC Curve (blog)
+Snowflake using SQL, Python and Bodo             Regression Metrics for Machine Learning
+(blog)                                           (blog)
+
+
+                 ​    ​      ​     ​         ​    ​        ​      ​      ​      Page 10
+Understanding and detecting different types of       SQL Command Reference
+drift (blog)                                         Snowpark API
+What Is a Confusion Matrix And How to Read           Designing Java UDFs
+It? (blog)                                           Vectorized Python UDFs
+                                                     Snowflake Model Registry
+Snowflake Documentation Links                        Model commands
+External Functions                                   Classification (Snowflake ML Functions)
+Functions and Procedures
+
+
+
+
+                   ​   ​       ​      ​          ​    ​      ​      ​      ​      Page 11
+SNOWPRO ADVANCED: DATA SCIENTIST SAMPLE QUESTIONS
+1.​   A Data Scientist is building a machine learning model, leveraging Python and SQL. The
+      Data Scientist will need to present the initial results using Streamlit visualizations and
+      must be able to quickly implement changes and run individual queries while presenting.
+
+      Which Snowflake service or feature will meet these requirements MOST efficiently?
+
+      A.​    Snowsight Dashboards
+      B.​    Snowflake Notebooks*
+      C.​    Snowflake Python Worksheets
+      D.​    Snowflake SQL Worksheets
+
+
+2.​   What is the correct sequence of activities that need to be performed when
+      running a data science workload?
+
+      A.​    Data Collection > Feature Engineering and Transformation > Data
+             Visualization, Exploration and Understanding > Model Deployment >
+             Model Training > Model Monitoring
+      B.​    Data Collection > Data Visualization, Exploration and Understanding >
+             Feature Engineering and Transformation > Model Training > Model
+             Monitoring > Model Deployment
+      C.​    Data Visualization, Exploration and Understanding > Data Collection >
+             Feature Engineering and Transformation > Model Deployment > Model
+             Monitoring > Model Training
+      D.​    Data Collection > Data Visualization, Exploration and Understanding >
+             Feature Engineering and Transformation > Model Training > Model
+             Deployment > Model Monitoring*
+
+
+3.​   Which estimating function is used to identify the approximate number of times a value
+      appears in a data set?
+
+      A.​    APPROX_COUNT_DISTINCT
+      B.​    ​APPROX_PERCENTILE​
+      C.​     ​APPROX_TOP_K*
+      D.​      APPROX_SIMILARITY
+
+
+
+
+                ​    ​      ​       ​      ​       ​      ​       ​      ​        Page 12
+4.​   A Data Scientist at Snowbear Airlines has trained a classification model for
+      predicting the overbooking of a flight. The Data Scientist sees the following for
+      one of the flights:
+
+      The flight was not overbooked, and the model classified the flight as not overbooked.
+
+      On a confusion matrix, what is the correct category of this description?
+
+      A.​    True Negative*
+      B.​    True Positive
+      C.​    False Negative
+      D.​    False Positive
+
+
+5.​   What is the correct way to interpret a linear regression model that has an R^2 of
+      .85?
+
+      A.​    The model predicts that response variable will change by approximately
+             .85 as the explanatory variable changes by 1.
+      B.​    If the model was repeated multiple times it would capture the true slope
+             85% of the time in various intervals.
+      C.​    There is a strong positive correlation between the response and explanatory
+             variables.
+      D.​    85% of the variability in the response variable can be explained by the
+             linear association between the response and explanatory variables.*
+
+
+
+
+                ​    ​      ​       ​       ​      ​       ​       ​      ​       Page 13
+NEXT STEPS
+REGISTERING FOR YOUR EXAM
+When you are ready to register for the exam navigate here to get started. Select the exam you
+want to take and click “Register Now”. This will take you to our Certification Management
+system where you will register to take the exam.
+
+MAINTAINING YOUR CERTIFICATION
+All Snowflake Certifications expire two (2) years after your certification issue date.
+SnowPro Certifications can now be recertified through the Snowflake Continuing Education
+(CE) program which includes these options -
+   ●​ Completion of eligible Snowflake Instructor Led (ILT) Training Courses
+   ●​ Earning of an equivalent or higher-level SnowPro Certification
+
+
+Note: You must have a valid Certification to participate in the Continuing Education (CE)
+program.
+
+
+
+
+The information provided in this study guide is provided for your purposes only and may not be provided
+to third parties.
+
+
+IN ADDITION, THIS STUDY GUIDE IS PROVIDED “AS IS”. NEITHER SNOWFLAKE NOR ITS
+SUPPLIERS MAKES ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, STATUTORY OR
+OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+TITLE, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT.
+
+
+
+
+                  ​    ​       ​       ​       ​       ​       ​       ​       ​       Page 14
+
